@@ -1,0 +1,10 @@
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\bin\Debug\SocketSender.exe.config
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\bin\Debug\SocketSender.exe
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\bin\Debug\SocketSender.pdb
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\obj\Debug\SocketSender.csprojResolveAssemblyReference.cache
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\obj\Debug\SocketSender.Properties.Resources.resources
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\obj\Debug\SocketSender.csproj.GenerateResource.Cache
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\obj\Debug\SocketSender.exe
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\obj\Debug\SocketSender.pdb
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\bin\Debug\WebCam_Capture.dll
+c:\users\1411070\documents\visual studio 2013\Projects\SocketSender\SocketSender\obj\Debug\SocketSender.WebCam.resources
